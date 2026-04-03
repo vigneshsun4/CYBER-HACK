@@ -107,4 +107,9 @@ The game was built using:
 - HTML5 Canvas
 - CSS
 
-No external libraries are used.
+---
+
+# Contributors
+
+- Vignesh S
+- Yogesh K
